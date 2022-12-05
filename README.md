@@ -2,7 +2,11 @@
 
 # About Me
 - Hi 👋, I'm Shantanu Anant Gaikwad. 
-- I am a third year undergraduate engineering student.
+- 😎 I am a third year undergraduate engineering student.
+- 🌱 I'm currently learning **Dart Language & Flutter Framework**
+- 👨‍💻 All of my projects are available at [https://github.com/gaikwadshantanu12](https://github.com/gaikwadshantanu12)
+- 💬 Ask me about **Java, Python, Android**
+- 📫 Mail me at **shantanu11agaikwad@gmail.com**
 
 # Educational Details
 - **Ajeenkya DY Patil, School of Engineering, Lohegaon, Pune**  
