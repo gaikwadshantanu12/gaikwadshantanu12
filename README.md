@@ -1,33 +1,55 @@
-![logo](https://github.com/gaikwadshantanu12/gaikwadshantanu12/blob/main/Github%20banner.jpg)
+# About Me
+Hi 👋, I'm Shantanu Anant Gaikwad. I am a third year undergraduate engineering student.
 
-<h1 align="center">Hi 👋, I'm Shantanu Anant Gaikwad</h1>
-<h3 align="center">A Artificial Intelligence and Data Science Engineer and a enthusiastic Android Developer.</h3>
+# Educational Details
+- **Ajeenkya DY Patil, School of Engineering, Lohegaon, Pune**  
+BE Artificial Intelligence and Data Science (Currently Pursuing)  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaikwadshantanu12&label=Profile%20views&color=0e75b6&style=flat" alt="gaikwadshantanu12" /> </p>
+- **Government Polytechnic, Jalgaon**  
+Diploma in Computer Engineering (August 2018 - August 2021)  
+Final Year Percentile : 93.37%  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaikwadshantanu12" alt="gaikwadshantanu12" /></a> </p>
+- **Sharda Dnyanpeeth Convent and Jr. College, Buldhana**  
+9th & 10th Boards (June 2017 - March 2018)  
+10th Percentile - 95.80%  
+9th Percentile - 87.86%   
 
-- 🌱 I’m currently learning **Dart Language & Flutter Framework**
+# Programming Skills
+### Programming Languages
+1. C
+2. C++
+3. Java
+4. Python
+5. Javascript
+6. PHP
 
-- 👨‍💻 All of my projects are available at [https://github.com/gaikwadshantanu12](https://github.com/gaikwadshantanu12)
+### Frontend Development
+1. HTML
+2. CSS
+3. Bootstrap
 
-- 💬 Ask me about **Java, Python, Android**
+### Mobile App Development
+1. Android 
+2. Flutter
+3. Dart
 
-- 📫 How to reach me **shantanu11agaikwad@gmail.com**
+### Databases
+1. SQLite
+2. MySQL
 
-<h3 align="left">Connect with me : </h3>
-<p align="left">
-<a href="https://twitter.com/shantanu_1232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shantanu_1232" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shantanu-gaikwad-9b75b8243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shantanu-gaikwad-9b75b8243/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/shantanu.a.gaikwad.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shantanu.a.gaikwad.1/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/___craaazy.anyone___/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/___craaazy.anyone___/" height="30" width="40" /></a>
-</p>
+### Backend as a Service (BaaS)
+1. Google Firebase
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+### Software & IDE
+1. Postman (For API Testing)
+2. VS Code
+3. Android Studio
+4. IntelliJ Idea
+5. PyCharm
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaikwadshantanu12&show_icons=true&locale=en&layout=compact" alt="gaikwadshantanu12" /></p>
+### Other
+1. Linux
+2. Git
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaikwadshantanu12&show_icons=true&locale=en" alt="gaikwadshantanu12" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaikwadshantanu12&" alt="gaikwadshantanu12" /></p>
+# Connect With Me
+![facebook](https://www.facebook.com/shantanu.a.gaikwad.1)
