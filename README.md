@@ -59,10 +59,9 @@ Final Year Percentile : 93.37%
 <a href="https://twitter.com/shantanu_1232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shantanu_1232" height="30" width="40" /></a>  
 
 
-# Most Used Languages
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaikwadshantanu12&show_icons=true&locale=en&layout=compact" alt="gaikwadshantanu12" /></p>     
+# Most Used Languages 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaikwadshantanu12&show_icons=true&locale=en&layout=compact" alt="gaikwadshantanu12" /></p>        
 
 
-
-# Github Streaks
-<p>&nbsp<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaikwadshantanu12&" alt="gaikwadshantanu12" /></p>
+# Github Streaks 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaikwadshantanu12&" alt="gaikwadshantanu12" /></p>
