@@ -6,7 +6,7 @@
 - 🌱 I'm currently learning **Dart Language & Flutter Framework**
 - 👨‍💻 All of my projects are available at [https://github.com/gaikwadshantanu12](https://github.com/gaikwadshantanu12)
 - 💬 Ask me about **Java, Python, Android**
-- 📫 Mail me at **shantanu11agaikwad@gmail.com**
+- 💌 Mail me at **shantanu11agaikwad@gmail.com**
 
 # Educational Details
 - **Ajeenkya DY Patil, School of Engineering, Lohegaon, Pune**  
@@ -46,6 +46,7 @@ Final Year Percentile : 93.37%
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 
 ### Software & IDE
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaikwadshantanu12&show_icons=true&locale=en&layout=compact" alt="gaikwadshantanu12" /></p>
 1. Postman (For API Testing)
 2. VS Code
 3. Android Studio
