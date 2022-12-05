@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Dart Language & Flutter Framework**
 
-- 👨‍💻 All of my projects are available at [https://github.com/gaikwadshantanu12](https://github.com/gaikwadshantanu12)
+- 👨‍💻 All of my projects are available at [github](https://github.com/gaikwadshantanu12)
 
 - 💬 Ask me about **Java, Python, Android**
 
