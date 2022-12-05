@@ -1,3 +1,5 @@
+![logo](https://github.com/gaikwadshantanu12/gaikwadshantanu12/blob/main/Github%20banner.jpg)
+
 <h1 align="center">Hi 👋, I'm Shantanu Anant Gaikwad</h1>
 <h3 align="center">A Artificial Intelligence and Data Science Engineer and a enthusiastic Android Developer.</h3>
 
