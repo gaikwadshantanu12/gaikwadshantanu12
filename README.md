@@ -1,5 +1,8 @@
+![logo](https://github.com/gaikwadshantanu12/gaikwadshantanu12/blob/main/Github%20banner.jpg)
+
 # About Me
-Hi 👋, I'm Shantanu Anant Gaikwad. I am a third year undergraduate engineering student.
+- Hi 👋, I'm Shantanu Anant Gaikwad. 
+- I am a third year undergraduate engineering student.
 
 # Educational Details
 - **Ajeenkya DY Patil, School of Engineering, Lohegaon, Pune**  
@@ -52,4 +55,4 @@ Final Year Percentile : 93.37%
 2. Git
 
 # Connect With Me
-![facebook](https://www.facebook.com/shantanu.a.gaikwad.1)
+<a href="https://fb.com/https://www.facebook.com/shantanu.a.gaikwad.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shantanu.a.gaikwad.1/" height="30" width="40" /></a>
