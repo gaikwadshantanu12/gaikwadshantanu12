@@ -32,7 +32,7 @@ Final Year Percentile : 93.37%
 3. Bootstrap
 
 ### Mobile App Development
-1. Android 
+1. Android <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 2. Flutter
 3. Dart
 
