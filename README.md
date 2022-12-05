@@ -60,7 +60,8 @@ Final Year Percentile : 93.37%
 
 
 # Most Used Languages 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaikwadshantanu12&show_icons=true&locale=en&layout=compact" alt="gaikwadshantanu12" /></p>        
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaikwadshantanu12&show_icons=true&locale=en&layout=compact" alt="gaikwadshantanu12"/></p>      
+
 
 
 # Github Streaks 
