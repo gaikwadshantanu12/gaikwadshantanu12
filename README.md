@@ -2,12 +2,12 @@
 
 # About Me
 <p style="font-family:Lucida Console">
-- Hi 👋, I'm Shantanu Anant Gaikwad.
-- 😎 I am a third year undergraduate engineering student.
-- 🌱 I'm currently learning **Dart Language & Flutter Framework**
-- 👨‍💻 All of my projects are available at [https://github.com/gaikwadshantanu12](https://github.com/gaikwadshantanu12)
-- 💬 Ask me about **Java, Python, Android**
-- 💌 Mail me at **shantanu11agaikwad@gmail.com**
+- Hi 👋, I'm Shantanu Anant Gaikwad.<br>
+- 😎 I am a third year undergraduate engineering student.<br>
+- 🌱 I'm currently learning **Dart Language & Flutter Framework**<br>
+- 👨‍💻 All of my projects are available at [https://github.com/gaikwadshantanu12](https://github.com/gaikwadshantanu12)<br>
+- 💬 Ask me about **Java, Python, Android**<br>
+- 💌 Mail me at **shantanu11agaikwad@gmail.com**<br>
 </p>
 
 # Educational Details
@@ -15,7 +15,7 @@
 ``BE Artificial Intelligence and Data Science (Currently Pursuing)``
 
 - **Government Polytechnic, Jalgaon**  
-``Diploma in Computer Engineering (August 2018 - August 2021)``
+``Diploma in Computer Engineering (August 2018 - August 2021)``<br>
 ``Final Year Percentile : 93.37%``
 
 - **Sharda Dnyanpeeth Convent and Jr. College, Buldhana**  
