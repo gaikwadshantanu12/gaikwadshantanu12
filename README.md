@@ -1,14 +1,12 @@
 ![https://github.com/gaikwadshantanu12/gaikwadshantanu12/blob/main/Github%20banner.jpg](https://github.com/gaikwadshantanu12/gaikwadshantanu12/blob/main/Github%20banner.jpg)
 
 # About Me
-<p style="font-family:Lucida Console">
-- Hi 👋, I'm Shantanu Anant Gaikwad.<br>
-- 😎 I am a third year undergraduate engineering student.<br>
-- 🌱 I'm currently learning **Dart Language & Flutter Framework**<br>
-- 👨‍💻 All of my projects are available at [https://github.com/gaikwadshantanu12](https://github.com/gaikwadshantanu12)<br>
-- 💬 Ask me about **Java, Python, Android**<br>
-- 💌 Mail me at **shantanu11agaikwad@gmail.com**<br>
-</p>
+- Hi 👋, I'm Shantanu Anant Gaikwad.
+- 😎 I am a third year undergraduate engineering student.
+- 🌱 I'm currently learning **Dart Language & Flutter Framework**
+- 👨‍💻 All of my projects are available at [https://github.com/gaikwadshantanu12](https://github.com/gaikwadshantanu12)
+- 💬 Ask me about **Java, Python, Android**
+- 💌 Mail me at **shantanu11agaikwad@gmail.com**
 
 # Educational Details
 - **Ajeenkya DY Patil, School of Engineering, Lohegaon, Pune**  
