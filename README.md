@@ -60,4 +60,4 @@
 <a href="https://github.com/gaikwadshantanu12" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> 
 
 # Most Used Languages 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaikwadshantanu12&show_icons=true&locale=en&layout=compact" alt="gaikwadshantanu12"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaikwadshantanu12" alt="gaikwadshantanu12"/></p>
