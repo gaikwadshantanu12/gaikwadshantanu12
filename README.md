@@ -18,8 +18,8 @@ Final Year Percentile : 93.37%
 
 - **Sharda Dnyanpeeth Convent and Jr. College, Buldhana**  
 9th & 10th Boards (June 2017 - March 2018)  
-10th Percentile - 95.80%  
-9th Percentile - 87.86%   
+  - <p style="font-family:Courier New">10th Percentile - 95.80%</p>
+  - <p style="font-family:Courier New">9th Percentile - 87.86% </p>
 
 # Programming Skills
 
@@ -51,15 +51,11 @@ Final Year Percentile : 93.37%
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-<br>
-
 # Connect With Me
 <a href="https://fb.com/https://www.facebook.com/shantanu.a.gaikwad.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shantanu.a.gaikwad.1/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/___craaazy.anyone___/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/___craaazy.anyone___/" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shantanu-gaikwad-9b75b8243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shantanu-gaikwad-9b75b8243/" height="30" width="40" /></a>
 <a href="https://twitter.com/shantanu_1232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shantanu_1232" height="30" width="40" /></a>   
-
-<br>
 
 # Most Used Languages 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaikwadshantanu12&show_icons=true&locale=en&layout=compact" alt="gaikwadshantanu12"/></p>
