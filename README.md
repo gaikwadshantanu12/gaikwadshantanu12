@@ -59,5 +59,8 @@
 <a href="https://linktr.ee/gaikwad_shantanu" target="blank"><img align="center" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" /></a>
 <a href="https://github.com/gaikwadshantanu12" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> 
 
+# Github Stats
+<p><img src="https://github-readme-stats.vercel.app/api?username=gaikwadshantanu12" alt="gaikwadshantanu12"/></p>
+
 # Most Used Languages 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaikwadshantanu12" alt="gaikwadshantanu12"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaikwadshantanu12" alt="gaikwadshantanu12"/></p>
