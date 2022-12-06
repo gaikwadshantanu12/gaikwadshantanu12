@@ -1,7 +1,7 @@
 ![logo](https://github.com/gaikwadshantanu12/gaikwadshantanu12/blob/main/Github%20banner.jpg)
 
 # About Me
-- Hi 👋, I'm Shantanu Anant Gaikwad.
+- 👋 Hi, I'm Shantanu Anant Gaikwad.
 - 😎 I am a third year undergraduate engineering student.
 - 🌱 I'm currently learning **Dart Language & Flutter Framework**
 - 👨‍💻 All of my projects are available at **[https://github.com/gaikwadshantanu12](https://github.com/gaikwadshantanu12)**
