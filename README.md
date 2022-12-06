@@ -1,23 +1,25 @@
 ![https://github.com/gaikwadshantanu12/gaikwadshantanu12/blob/main/Github%20banner.jpg](https://github.com/gaikwadshantanu12/gaikwadshantanu12/blob/main/Github%20banner.jpg)
 
 # About Me
-- Hi 👋, I'm Shantanu Anant Gaikwad. 
+<p style="font-family:Lucida Console">
+- Hi 👋, I'm Shantanu Anant Gaikwad.
 - 😎 I am a third year undergraduate engineering student.
 - 🌱 I'm currently learning **Dart Language & Flutter Framework**
 - 👨‍💻 All of my projects are available at [https://github.com/gaikwadshantanu12](https://github.com/gaikwadshantanu12)
 - 💬 Ask me about **Java, Python, Android**
 - 💌 Mail me at **shantanu11agaikwad@gmail.com**
+</p>
 
 # Educational Details
 - **Ajeenkya DY Patil, School of Engineering, Lohegaon, Pune**  
-BE Artificial Intelligence and Data Science (Currently Pursuing)  
+``BE Artificial Intelligence and Data Science (Currently Pursuing)``
 
 - **Government Polytechnic, Jalgaon**  
-Diploma in Computer Engineering (August 2018 - August 2021)  
-Final Year Percentile : 93.37%  
+``Diploma in Computer Engineering (August 2018 - August 2021)``
+``Final Year Percentile : 93.37%``
 
 - **Sharda Dnyanpeeth Convent and Jr. College, Buldhana**  
-9th & 10th Boards (June 2017 - March 2018)  
+``9th & 10th Boards (June 2017 - March 2018)`` 
   - <p style="font-family:Courier New">10th Percentile - 95.80%</p>
   - <p style="font-family:Courier New">9th Percentile - 87.86% </p>
 
