@@ -1,4 +1,4 @@
-![logo](https://github.com/gaikwadshantanu12/gaikwadshantanu12/blob/main/Github%20banner.jpg)
+![https://github.com/gaikwadshantanu12/gaikwadshantanu12/blob/main/Github%20banner.jpg](https://github.com/gaikwadshantanu12/gaikwadshantanu12/blob/main/Github%20banner.jpg)
 
 # About Me
 - Hi 👋, I'm Shantanu Anant Gaikwad. 
@@ -51,6 +51,7 @@ Final Year Percentile : 93.37%
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
+<br>
 
 # Connect With Me
 <a href="https://fb.com/https://www.facebook.com/shantanu.a.gaikwad.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shantanu.a.gaikwad.1/" height="30" width="40" /></a>
@@ -58,7 +59,7 @@ Final Year Percentile : 93.37%
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shantanu-gaikwad-9b75b8243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shantanu-gaikwad-9b75b8243/" height="30" width="40" /></a>
 <a href="https://twitter.com/shantanu_1232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shantanu_1232" height="30" width="40" /></a>   
 
-
+<br>
 
 # Most Used Languages 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaikwadshantanu12&show_icons=true&locale=en&layout=compact" alt="gaikwadshantanu12"/></p>
