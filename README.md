@@ -56,7 +56,6 @@
 <a href="https://instagram.com/https://www.instagram.com/___craaazy.anyone___/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="https://www.instagram.com/___craaazy.anyone___/"/></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shantanu-gaikwad-9b75b8243/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/shantanu-gaikwad-9b75b8243/"/></a>
 <a href="https://twitter.com/shantanu_1232" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="shantanu_1232" /></a>
-<a href="https://linktr.ee/gaikwad_shantanu" target="blank"><img align="center" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" /></a>
 <a href="https://github.com/gaikwadshantanu12" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> 
 
 # Github Stats
