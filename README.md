@@ -1,4 +1,4 @@
-![logo](https://github.com/gaikwadshantanu12/gaikwadshantanu12/blob/main/Github%20banner.jpg)
+![](https://github.com/gaikwadshantanu12/gaikwadshantanu12/blob/main/Github%20banner.jpg)
 
 # About Me
 - 👋 Hi, I'm Shantanu Anant Gaikwad.
