@@ -53,3 +53,16 @@
 
 # Most Used Languages 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaikwadshantanu12&langs_count=8&layout=compact" alt="gaikwadshantanu12"/></p>
+
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=gaikwadshantanu12&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=gaikwadshantanu12&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=gaikwadshantanu12&show_icons=true" />
+</picture>
