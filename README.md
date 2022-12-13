@@ -48,7 +48,7 @@
 # Github Stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=gaikwadshantanu12" alt="gaikwadshantanu12"/></p>
 
-# Github Profile Summary
+# Profile Summary
 <p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaikwadshantanu12&theme=vue" alt="gaikwadshantanu12"/></p>
 
 # Most Used Languages 
