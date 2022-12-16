@@ -54,8 +54,7 @@
 # Languages 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaikwadshantanu12&langs_count=8&layout=compact" alt="gaikwadshantanu12"/></p>
 
-```
-javascript
+```javascript
 
 console.log("Hello");
 ```
