@@ -44,6 +44,9 @@
 <a href="https://twitter.com/shantanu_1232" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="shantanu_1232" /></a>
 <a href="https://github.com/gaikwadshantanu12" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> 
 <a href="https://t.me/shantanu_g" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a> 
+<a href="https://linktr.ee/gaikwad_shantanu" target="blank"><img align="center" src="
+https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" /></a> 
+
 
 # Github Stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=gaikwadshantanu12&show_icons=true" alt="gaikwadshantanu12"/></p>
