@@ -11,6 +11,8 @@
 - 👨‍💻 All of my projects are available at **[https://github.com/gaikwadshantanu12](https://github.com/gaikwadshantanu12)**
 - 💬 Ask me about **Java, Python, Android**
 - 💌 Mail me at **shantanu11agaikwad@gmail.com**
+- 🖤 Always keeps on updating myself
+- 🚀 Being a better version of **"Shantanu Gaikwad"**
 
 # Educational Details
 - **Ajeenkya DY Patil, School of Engineering, Lohegaon, Pune**  
