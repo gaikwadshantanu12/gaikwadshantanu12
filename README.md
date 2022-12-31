@@ -52,6 +52,13 @@ function () {
 }
 ```
 
+```javascript
+while(!success) {
+     tryagain();
+     if(tired)
+        break;
+}
+
 # Connect With Me
 <a href="https://fb.com/https://www.facebook.com/shantanu.a.gaikwad.1/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="https://www.facebook.com/shantanu.a.gaikwad.1/"/></a>
 <a href="https://instagram.com/https://www.instagram.com/___craaazy.anyone___/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="https://www.instagram.com/___craaazy.anyone___/"/></a>
