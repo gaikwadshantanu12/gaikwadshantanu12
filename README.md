@@ -44,7 +44,7 @@
 
 # Success Mantras
 ```javascript
-function () {
+function Motivation() {
      eat();
      sleep();
      love_yourself();
