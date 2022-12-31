@@ -1,6 +1,8 @@
 ![](https://raw.githubusercontent.com/gaikwadshantanu12/gaikwadshantanu12/main/Github%20banner.jpg)
 
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia&quote=Any+fool+can+write+code+that+a+computer+can+understand.+Good+programmers+write+code+that+humans+can+understand.&author=Martin+Fowler)
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia&quote=Any+fool+can+write+code+that+a+computer+can+understand.+Good+programmers+write+code+that+humans+can+understand.&author=Martin+Fowler"/>
+</div>
 
 # About Me
 - 👋 Hi, I'm Shantanu Anant Gaikwad.
