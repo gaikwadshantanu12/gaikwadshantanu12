@@ -1,5 +1,7 @@
 ![](https://raw.githubusercontent.com/gaikwadshantanu12/gaikwadshantanu12/main/Github%20banner.jpg)
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote="Make it work, make it right, make it fast"&author="Kent Beck")](https://github.com/piyushsuthar/github-readme-quotes)
+
 # About Me
 - 👋 Hi, I'm Shantanu Anant Gaikwad.
 - 😎 I am a third year undergraduate engineering student.
