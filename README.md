@@ -45,18 +45,18 @@
 # Success Mantras
 ```javascript
 function Motivation() {
-     eat();
-     sleep();
-     love_yourself();
-     repeat();
+    eat();
+    sleep();
+    love_yourself();
+    repeat();
 }
 ```
 
 ```javascript
 while(!success) {
-     tryagain();
-     if(tired)
-        break;
+    tryagain();
+    if(tired)
+       break;
 }
 ```
 
