@@ -1,7 +1,5 @@
 ![](https://raw.githubusercontent.com/gaikwadshantanu12/gaikwadshantanu12/main/code.gif)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-
 # About Me
 - 👋 Hi, I'm Shantanu Anant Gaikwad.
 - 😎 I am a third year undergraduate engineering student.
