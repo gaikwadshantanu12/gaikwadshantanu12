@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/gaikwadshantanu12/gaikwadshantanu12/main/code.gif)
 
 # About Me  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=27F71D&width=900&height=100&lines=%F0%9F%91%8B+Hi%2C+I'm+Shantanu+Anant+Gaikwad.;%F0%9F%98%8E+I+am+a+third+year+undergraduate+engineering+student.;%F0%9F%8C%B1+I'm+currently+learning+Dart+Language+%26+Flutter+Framework;%F0%9F%92%AC+Ask+me+about+Java%2C+Python%2C+Android;%F0%9F%9A%80+Being+a+better+version+of+%22Shantanu+Gaikwad%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F78B6C&center=true&vCenter=true&width=900&lines=%F0%9F%91%8B+Hi%2C+I'm+Shantanu+Anant+Gaikwad.;%F0%9F%98%8E+I+am+a+third+year+undergraduate+engineering+student.;%F0%9F%8C%B1+I'm+currently+learning+Dart+Language+%26+Flutter+Framework;%F0%9F%92%AC+Ask+me+about+Java%2C+Python%2C+Android;%F0%9F%9A%80+Being+a+better+version+of+%22Shantanu+Gaikwad%22)](https://git.io/typing-svg)
 - 👋 Hi, I'm Shantanu Anant Gaikwad.
 - 😎 I am a third year undergraduate engineering student.
 - 🌱 I'm currently learning **Dart Language & Flutter Framework**
